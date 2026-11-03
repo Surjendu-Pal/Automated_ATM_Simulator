@@ -1,0 +1,16 @@
+PROJECT TITLE: AUTOMATED ATM TRANSACTION SIMULATOR
+COLLEGE / UNIVERSITY: [Fill in]
+DEPARTMENT / COURSE: [Fill in]
+SUBJECT: Python for Machine Learning
+ACADEMIC SESSION: 2026-2027
+
+GROUP MEMBERS (4):
+1. [Full name] - [Roll number] - UI / Tkinter
+2. [Full name] - [Roll number] - SQLite / Logic
+3. [Full name] - [Roll number] - ML Analysis
+4. [Full name] - [Roll number] - Testing / Documentation
+
+GUIDE NAME: [Fill in]
+SUBMISSION DATE: [Fill in]
+
+NOTE: Project_Report.pdf is a report TEMPLATE. Replace these fields and insert genuine screenshots before final submission. Do not sign the certificate on behalf of any teacher.

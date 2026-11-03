@@ -1,0 +1,23 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Generated simulator data and exports
+/atm_database.db*
+/receipts/
+/transaction_analysis.csv
+
+# Operating system files
+.DS_Store
+Thumbs.db

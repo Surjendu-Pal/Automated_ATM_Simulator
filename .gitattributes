@@ -1,0 +1,2 @@
+# Preserve PDF bytes when checking out on Windows.
+*.pdf binary
